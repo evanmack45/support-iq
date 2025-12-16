@@ -1,0 +1,7 @@
+{
+  "name": "SupportIQ - Coaching Intelligence",
+  "description": "A support team coaching platform that analyzes audio calls to provide diarized transcripts, sentiment analysis, and AI-generated coaching insights.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
